@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_slices_months",
+  "info": {
+    "displayName": "months",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "monthCode": {
+      "type": "integer"
+    },
+    "month": {
+      "type": "string"
+    }
+  }
+}

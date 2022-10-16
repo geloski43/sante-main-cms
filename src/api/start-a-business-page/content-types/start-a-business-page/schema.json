@@ -1,0 +1,29 @@
+{
+  "kind": "singleType",
+  "collectionName": "start_a_business_pages",
+  "info": {
+    "singularName": "start-a-business-page",
+    "pluralName": "start-a-business-pages",
+    "displayName": "startABusinessPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "pageContent": {
+      "type": "component",
+      "repeatable": false,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "slices.start-a-business"
+    }
+  }
+}

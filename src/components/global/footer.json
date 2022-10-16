@@ -1,0 +1,58 @@
+{
+  "collectionName": "components_global_footers",
+  "info": {
+    "displayName": "footer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "newsLetter": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.head-description"
+    },
+    "footerLogo": {
+      "type": "component",
+      "component": "shared.logo"
+    },
+    "slogan": {
+      "type": "string"
+    },
+    "findUs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.link"
+    },
+    "socialLinks": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.icon-link"
+    },
+    "downloadLinks": {
+      "type": "component",
+      "repeatable": false,
+      "component": "global.download-links"
+    },
+    "contactUsTitle": {
+      "type": "string"
+    },
+    "contactUs": {
+      "type": "richtext"
+    },
+    "startABusiness": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.labeled-links"
+    },
+    "quickLinks": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.labeled-links"
+    },
+    "affiliates": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.labeled-image-links"
+    }
+  }
+}

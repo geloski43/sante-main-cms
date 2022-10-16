@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_slices_board_of_directors",
+  "info": {
+    "displayName": "boardOfDirectors"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "component",
+      "component": "shared.head-description"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.single-page-section"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_slices_grouped_linked_section_items",
+  "info": {
+    "displayName": "groupedLinkedSectionItems"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.linked-section-items"
+    }
+  }
+}

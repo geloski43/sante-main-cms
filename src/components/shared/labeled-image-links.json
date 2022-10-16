@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_labeled_image_links",
+  "info": {
+    "displayName": "labeledImageLinks"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.image-link"
+    }
+  }
+}

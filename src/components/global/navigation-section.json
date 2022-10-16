@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_global_navigation_sections",
+  "info": {
+    "displayName": "navigationSection",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "panels": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.menu"
+    }
+  }
+}

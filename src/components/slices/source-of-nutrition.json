@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_slices_source_of_nutritions",
+  "info": {
+    "displayName": "sourceOfNutrition"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.head-description"
+    },
+    "logo": {
+      "type": "component",
+      "component": "shared.logo"
+    },
+    "button": {
+      "type": "component",
+      "component": "shared.button"
+    }
+  }
+}

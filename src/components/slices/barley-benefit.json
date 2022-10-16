@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_slices_barley_benefits",
+  "info": {
+    "displayName": "barleyBenefit",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.richtext"
+    },
+    "image": {
+      "type": "component",
+      "component": "shared.logo"
+    }
+  }
+}

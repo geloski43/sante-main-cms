@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_image_links",
+  "info": {
+    "displayName": "imageLink"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.logo"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.link"
+    }
+  }
+}

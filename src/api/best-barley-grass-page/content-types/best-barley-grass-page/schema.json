@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "best_barley_grass_pages",
+  "info": {
+    "singularName": "best-barley-grass-page",
+    "pluralName": "best-barley-grass-pages",
+    "displayName": "bestBarleyGrassPage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "content": {
+      "type": "richtext",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

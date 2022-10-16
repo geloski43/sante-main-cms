@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_slices_affiliate",
+  "info": {
+    "displayName": "affiliate",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.logo"
+    },
+    "description": {
+      "type": "text"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.button"
+    },
+    "images": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.logo"
+    }
+  }
+}

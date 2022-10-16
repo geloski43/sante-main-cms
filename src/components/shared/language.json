@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_languages",
+  "info": {
+    "displayName": "language"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "code": {
+      "type": "string"
+    }
+  }
+}

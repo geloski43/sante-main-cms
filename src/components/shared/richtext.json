@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_shared_richtexts",
+  "info": {
+    "displayName": "richtext",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext",
+      "default": "![Philippines](https://main.santebarley.com/wp-content/uploads/2018/03/Philippines-icon.png) ------------------- |  item 1  "
+    }
+  }
+}

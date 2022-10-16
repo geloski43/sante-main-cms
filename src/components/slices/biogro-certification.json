@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_slices_biogro_certifications",
+  "info": {
+    "displayName": "biogroCertification"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.richtext"
+    },
+    "bgImage": {
+      "type": "component",
+      "component": "shared.logo"
+    },
+    "button": {
+      "type": "component",
+      "component": "shared.button"
+    }
+  }
+}

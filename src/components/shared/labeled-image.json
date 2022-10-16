@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_shared_labeled_image",
+  "info": {
+    "displayName": "labeledImage",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "default": "Executive Directors"
+    },
+    "imageUrl": {
+      "type": "string",
+      "default": "https://main.santebarley.com/wp-content/uploads/2021/02/ed.png"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

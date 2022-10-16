@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_global_download_links",
+  "info": {
+    "displayName": "downloadLinks"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "storeLogo": {
+      "type": "component",
+      "component": "shared.logo"
+    },
+    "googlePlayLink": {
+      "type": "component",
+      "component": "shared.image-link"
+    },
+    "appStoreLink": {
+      "type": "component",
+      "component": "shared.image-link"
+    }
+  }
+}

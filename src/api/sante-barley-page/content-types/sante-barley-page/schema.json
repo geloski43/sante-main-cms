@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "sante_barley_pages",
+  "info": {
+    "singularName": "sante-barley-page",
+    "pluralName": "sante-barley-pages",
+    "displayName": "santeBarleyPage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "content": {
+      "type": "richtext",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

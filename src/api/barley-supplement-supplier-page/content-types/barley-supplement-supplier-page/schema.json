@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "barley_supplement_supplier_pages",
+  "info": {
+    "singularName": "barley-supplement-supplier-page",
+    "pluralName": "barley-supplement-supplier-pages",
+    "displayName": "barleySupplementSupplierPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "content": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "richtext"
+    }
+  }
+}

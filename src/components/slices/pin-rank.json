@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_slices_pin_ranks",
+  "info": {
+    "displayName": "pinRank"
+  },
+  "options": {},
+  "attributes": {
+    "pinRankHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.labeled-image"
+    },
+    "pinRankList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.richtext"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_head_descriptions",
+  "info": {
+    "displayName": "headDescription",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

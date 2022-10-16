@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_global_headers",
+  "info": {
+    "displayName": "header"
+  },
+  "options": {},
+  "attributes": {
+    "businessOwnerLink": {
+      "type": "component",
+      "component": "shared.icon-link"
+    },
+    "inquiryLink": {
+      "type": "component",
+      "component": "shared.icon-link"
+    },
+    "storeLocatorLink": {
+      "type": "component",
+      "component": "shared.icon-link"
+    },
+    "countries": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.country-link"
+    },
+    "myAccount": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.labeled-icon-links"
+    },
+    "searchLink": {
+      "type": "component",
+      "component": "shared.icon-link"
+    },
+    "languages": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.language"
+    }
+  }
+}

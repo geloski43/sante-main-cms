@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "barley_grass_pages",
+  "info": {
+    "singularName": "barley-grass-page",
+    "pluralName": "barley-grass-pages",
+    "displayName": "barleyGrassPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "content": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "richtext"
+    }
+  }
+}

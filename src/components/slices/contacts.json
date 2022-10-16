@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_slices_contacts",
+  "info": {
+    "displayName": "contacts",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.logo"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

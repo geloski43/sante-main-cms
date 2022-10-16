@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_slices_linked_page_sections",
+  "info": {
+    "displayName": "linkedPageSection",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.linked-section-items"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shared_labeled_markdowns",
+  "info": {
+    "displayName": "labeledMarkdown"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.logo"
+    },
+    "content": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.richtext"
+    }
+  }
+}

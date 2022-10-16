@@ -1,0 +1,49 @@
+{
+  "collectionName": "components_slices_pre_register_as_ebranches",
+  "info": {
+    "displayName": "preRegisterAsEbranch"
+  },
+  "options": {},
+  "attributes": {
+    "formHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.head-description"
+    },
+    "formBgImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.logo"
+    },
+    "successStories": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.labeled-images"
+    },
+    "santeBusinessOwner": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.labeled-markdown"
+    },
+    "hqProducts": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.richtext"
+    },
+    "businessResources": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.richtext"
+    },
+    "santeEndorser": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.richtext"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.button"
+    }
+  }
+}

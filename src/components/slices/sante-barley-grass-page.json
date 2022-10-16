@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_slices_sante_barley_grass_pages",
+  "info": {
+    "displayName": "santeBarleyGrassPage"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "richtext"
+    },
+    "biogroCert": {
+      "type": "component",
+      "repeatable": false,
+      "component": "slices.biogro-certification"
+    },
+    "sourceOfNutrition": {
+      "type": "component",
+      "repeatable": false,
+      "component": "slices.source-of-nutrition"
+    },
+    "footerDesc": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.head-description"
+    },
+    "barleyGrassDesc": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.labeled-image"
+    }
+  }
+}

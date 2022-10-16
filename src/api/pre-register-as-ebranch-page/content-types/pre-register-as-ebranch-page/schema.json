@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "pre_register_as_ebranch_pages",
+  "info": {
+    "singularName": "pre-register-as-ebranch-page",
+    "pluralName": "pre-register-as-ebranch-pages",
+    "displayName": "preRegisterAsEbranchPage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "pageContent": {
+      "type": "component",
+      "repeatable": false,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "slices.pre-register-as-ebranch"
+    }
+  }
+}

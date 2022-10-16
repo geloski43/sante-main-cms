@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_slices_home_slider_items",
+  "info": {
+    "displayName": "homeSliderItems"
+  },
+  "options": {},
+  "attributes": {
+    "sliders": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.home-slider"
+    }
+  }
+}

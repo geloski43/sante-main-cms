@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "tems_and_conditions_pages",
+  "info": {
+    "singularName": "tems-and-conditions-page",
+    "pluralName": "tems-and-conditions-pages",
+    "displayName": "temsAndConditionsPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "pageContent": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "richtext"
+    }
+  }
+}

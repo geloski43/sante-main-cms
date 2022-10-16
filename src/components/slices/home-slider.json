@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_slices_home_sliders",
+  "info": {
+    "displayName": "homeSlider"
+  },
+  "options": {},
+  "attributes": {
+    "banner": {
+      "type": "component",
+      "component": "shared.logo"
+    },
+    "title": {
+      "type": "string"
+    },
+    "header": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "buttons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.button"
+    }
+  }
+}
