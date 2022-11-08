@@ -22,7 +22,7 @@
         "slices.home-slider-items",
         "slices.linked-page-section",
         "slices.page-section",
-        "slices.grouped-linked-section-items"
+        "slices.linked-section-items"
       ],
       "pluginOptions": {
         "i18n": {

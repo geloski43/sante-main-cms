@@ -1,7 +1,7 @@
 {
-  "collectionName": "components_slices_grouped_linked_section_items",
+  "collectionName": "components_slices_linked_section_items",
   "info": {
-    "displayName": "groupedLinkedSectionItems"
+    "displayName": "linkedSectionItems"
   },
   "options": {},
   "attributes": {
